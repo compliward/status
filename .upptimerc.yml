@@ -1,6 +1,7 @@
 owner: compliward
 repo: status
 userAgent: Compliward
+token: ${{ secrets.GH_PAT }}
 assignees:
   - compliward
 
