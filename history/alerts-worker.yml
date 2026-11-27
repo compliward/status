@@ -1,7 +1,7 @@
 url: https://compliward.vercel.app/api/internal/alerts/run
 status: up
 code: 401
-responseTime: 709
-lastUpdated: 2026-11-26T04:41:13.588Z
+responseTime: 508
+lastUpdated: 2026-11-27T04:45:07.275Z
 startTime: 2026-07-06T09:46:55.116Z
 generator: Upptime <https://github.com/upptime/upptime>
